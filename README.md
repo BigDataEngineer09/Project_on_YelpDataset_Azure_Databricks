@@ -1,4 +1,4 @@
-# Project_on_YelpDataset_Azure_Databricks
+# Mining the Gems: Unveiling User Trends and Business Insights from Yelp
 
 1. Conducted data ingestion by reading Yelp datasets from Azure Data Lake Storage (ADLS) and optimized the data format by converting JSON to Parquet for enhanced performance.
 
